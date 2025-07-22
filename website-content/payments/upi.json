@@ -1,6 +1,6 @@
 {
-  "Heading": "Fastest go-live to collect payments through UPI",
-  "Description": "Achieve industry leading success rates with lightning fast onboarding",
+  "heading": "Fastest go-live to collect payments through UPI",
+  "description": "Achieve industry leading success rates with lightning fast onboarding",
   "cta": {
     "primary": {
       "label": "Get started",
@@ -23,6 +23,10 @@
     {
       "title": "Stage",
       "icon": "LogoStage"
+    },
+    {
+      "title": "PhonePe",
+      "icon": "LogoPhonePe"
     }
   ]
 }
