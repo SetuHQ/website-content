@@ -1,0 +1,38 @@
+[
+  {
+    "Key": "Heading",
+    "Value": "Fastest go-live to collect payments through UPI"
+  },
+  {
+    "Key": "Description",
+    "Value": "Achieve industry leading success rates with lightning fast onboarding"
+  },
+  {
+    "Key": "cta.primary.label",
+    "Value": "Get started"
+  },
+  {
+    "Key": "cta.primary.url",
+    "Value": "https://bridge.setu.co/v2"
+  },
+  {
+    "Key": "cta.secondary.label",
+    "Value": "Contact us"
+  },
+  {
+    "Key": "cta.secondary.url",
+    "Value": ""
+  },
+  {
+    "Key": "businessLogo[0]",
+    "Value": "Pickrr"
+  },
+  {
+    "Key": "businessLogo[1]",
+    "Value": "Cred"
+  },
+  {
+    "Key": "businessLogo[2]",
+    "Value": "Stage"
+  }
+]
