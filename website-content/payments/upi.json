@@ -30,6 +30,7 @@
     }
   ],
   "subproducts": [
+    null,
     {
       "name": "Recur"
     }
